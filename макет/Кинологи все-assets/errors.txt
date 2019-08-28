@@ -1,0 +1,7 @@
+[8/28/2019, 1:51:24 PM] layer " +7 499 390-00-18": Expected Either a default asset specification or a layer asset specification but " " found.
+[8/28/2019, 1:51:24 PM] layer "Адрес: 117419, город Москва, улица Цюрупы, дом 1а, строение 2, ": Expected end of input but "," found.
+[8/28/2019, 1:51:24 PM] layer "Адрес: 117419, город Москва, улица Цюрупы, дом 1а, строение 2, ": Expected end of input but "," found.
+[8/28/2019, 1:51:24 PM] layer " +7 499 390-00-18": Expected Either a default asset specification or a layer asset specification but " " found.
+[8/28/2019, 1:51:24 PM] layer " +7 499 390-00-18": Expected Either a default asset specification or a layer asset specification but " " found.
+[8/28/2019, 1:51:24 PM] layer "Адрес: 117419, город Москва, улица Цюрупы, дом 1а, строение 2, ": Expected end of input but "," found.
+[8/28/2019, 1:51:24 PM] layer "Транспортных средств (автотранспорт, железнодорожный транспорт,": Expected end of input but "," found.
